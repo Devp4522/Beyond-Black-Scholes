@@ -99,5 +99,5 @@ with correlation between the two Brownian motions.
 - Support for additional exotic structures
 - Visualization dashboard for volatility surfaces and pricing output
 
-##Author
+### Author
 - Dev Patel
