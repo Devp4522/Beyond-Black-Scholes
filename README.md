@@ -70,33 +70,34 @@ with correlation between the two Brownian motions.
 - Heston captures skew/smile behavior more realistically
 - FFT prices closely match Monte Carlo prices for vanilla options
 
-Getting Started
-Requirements
-Python 3.10+
-NumPy
-Pandas
-Matplotlib
-SciPy
-Jupyter Notebook
-Installation
-pip install numpy pandas matplotlib scipy jupyter
-Run the Notebook
-jupyter notebook
+## Getting Started
+### Requirements
+- Python 3.10+
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- Jupyter Notebook
+- Installation
+- pip install numpy pandas matplotlib scipy jupyter
+- Run the Notebook
+- jupyter notebook
 
-Open the notebook and run the cells step by step to reproduce the simulations, calibration, and pricing results.
+### Open the notebook and run the cells step by step to reproduce the simulations, calibration, and pricing results.
 
-Usage
-Load or define market parameters
-Generate the implied volatility surface
-Calibrate the chosen model
-Price vanilla or exotic options
-Compare model outputs with Monte Carlo / FFT results
-Future Improvements
-More robust market calibration
-Arbitrage-free surface interpolation
-Better variance reduction for Monte Carlo
-Support for additional exotic structures
-Visualization dashboard for volatility surfaces and pricing output
-Author
+### Usage
+- Load or define market parameters
+- Generate the implied volatility surface
+- Calibrate the chosen model
+- Price vanilla or exotic options
+- Compare model outputs with Monte Carlo / FFT results
 
-Dev Patel
+### Future Improvements
+- More robust market calibration
+- Arbitrage-free surface interpolation
+- Better variance reduction for Monte Carlo
+- Support for additional exotic structures
+- Visualization dashboard for volatility surfaces and pricing output
+
+##Author
+- Dev Patel
